@@ -1,0 +1,17 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\ExemplosTiposEspecias.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\ExemplosTiposEspecias.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\ExemplosTiposEspecias.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\ExemplosTiposEspecias.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\ExemplosTiposEspecias.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\refint\ExemplosTiposEspecias.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ref\ExemplosTiposEspecias.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.csproj.AssemblyReference.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTiposEspecias\obj\Debug\net7.0\ExemplosTiposEspecias.csproj.CopyComplete

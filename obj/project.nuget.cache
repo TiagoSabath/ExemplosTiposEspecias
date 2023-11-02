@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3JqW/EiP2M+2cq0rDJ+pk2r1U5YOtTaHfYKC7fJXf/YrAeo1dxiSVZLf/JbDJKAmvH5t7PYp5QgBGdHF+aWIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiagu\\OneDrive\\Área de Trabalho\\Projetos\\C#\\ExemplosTiposEspecias\\ExemplosTiposEspecias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiagu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
